@@ -1,5 +1,5 @@
 # Cyberus
- A cybersecurity tool created for the 22-23 Conrad Challenge. This Python desktop application allows the user to easily establish custom security responses in response to activity detected on the system.
+ A prototype cybersecurity tool created for the 22-23 Conrad Challenge. This Python desktop application allows the user to easily establish custom security responses in response to activity detected on the system.
 
 I created this project in my Sophomore year at Westminster HS as part of the 2022-2023 Conrad challenge. I am the sole author of this program, but was lucky to have a team of my classmates to help with the marketing and design aspects of this project. Thank you Mr. Figs!
 
