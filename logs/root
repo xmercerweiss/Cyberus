@@ -1,0 +1,37 @@
+Startup initiated
+Starting checker processes...
+Started banned_apps_checker
+Successfully started all checker processes
+Successfully started checker
+Starting executor process...
+Successfully started executor process
+Successfully started executor
+Shutdown initiated
+Closing checker processes...
+Successfully closed all checker processes
+Closing executor processes...
+Successfully closed all executor processes
+Closing root...
+
+Startup initiated
+Starting checker processes...
+Started banned_apps_checker
+Successfully started all checker processes
+Successfully started checker
+Starting executor process...
+Successfully started executor process
+Successfully started executor
+banned_apps_checker detected a threat of 10
+banned_apps_checker detected a threat of 20
+Threshold exceeded, executing contingency scripts!
+!!! ENCRYPTING FILES !!!
+Threshold exceeded, executing contingency scripts!
+!!! ENCRYPTING FILES !!!
+FileNotFoundError : [Errno 2] No such file or directory: '/home/xavierfmw/Desktop/lorem_ipsum'
+[Errno 2] No such file or directory: '/home/xavierfmw/Desktop/lorem_ipsum'
+Closing checker processes...
+Successfully closed all checker processes
+Closing executor processes...
+Successfully closed all executor processes
+Closing root...
+
